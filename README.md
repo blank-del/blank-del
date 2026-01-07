@@ -7,7 +7,7 @@
 <img align="right" src="https://media1.tenor.com/m/GBG9-HvtKYMAAAAd/silicon-valley-title-sequence-mike-judge-youtube-netflix-twitter-silicon-valley.gif" width="300" />
 
 ### 💡 About Me
-- 🔭 Currently finishing my Masters Degree in Computational Engineering from LUT 
+- 🔭 MSc in Data-centric Engineering from LUT
 - 🌱 Sharpening my skills in **MLOps**, **White Box Neural Network**, **Parameter Optimisation**
 - ⚡ Fun fact: I love solving **data pipeline mysteries** 🕵️‍♂️  
 - 🛠 Currently working on: **Dota2 End to End Analytics Platform with Azure + Terraform**
