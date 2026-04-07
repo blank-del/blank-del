@@ -1,16 +1,19 @@
 <h1 align="center"> Hi there 👋, I'm Hassan</h1>
   
 <p align="center">
-  🚀 <b>Data Enthusiast</b> | ☁️ <b>Cloud Platform</b> | 🤖 <b>Machine Learning</b> | 🔍 <b>Analytics Engineer</b>
-<p>
+  🚀 <b>Azure Data Engineer (DP-203, DP-700)</b> | ☁️ <b>Modern Data Platforms (Databricks, Microsoft Fabric, OneLake, Lakehouse)</b> <br>
+  🔧 <b>ETL Pipelines • Data Quality • Data Governance</b> <br>
+  💡 Turning messy data into scalable, production-ready data platforms
+</p>
 
 <img align="right" src="https://media1.tenor.com/m/GBG9-HvtKYMAAAAd/silicon-valley-title-sequence-mike-judge-youtube-netflix-twitter-silicon-valley.gif" width="300" />
 
 ### 💡 About Me
 - 🔭 MSc in Data-centric Engineering from LUT
-- 🌱 Sharpening my skills in **MLOps**, **Data Analysis**, **LLM/AI Agents**
+- 👨‍💻 BSc in Computer Science
+- 🌱 Sharpening my skills in **Data Govenance**, **Data Paltforms**, **LLM/AI Agents**
 - ⚡ Fun fact: I love solving **data mysteries** 🕵️‍♂️  
-- 🔍 Currently looking for: **Roles in Analytics/Data to apply my technical skills in solving business problems using Data**
+- 🔍 Open to: **Roles in Analytics/Data to apply my technical skills in solving business problems using Data**
 ---
 
 ### Achievements
@@ -22,7 +25,7 @@
 ### 🛠️ Tech Stack
 - **Languages:** Python, PySpark, C++, SQL, Bash, Shell (linux)
 - **Cloud:** AWS, Azure
-- **Cloud Tech:** AWS Data Migration Service (DMS), AWS S3, AWS EC2, AWS Lambda, AWS QuickSight (for visualization), Azure Functions, Azure Key Vault, Azure App Insights
+- **Cloud Tech:** AWS Data Migration Service (DMS), AWS S3, AWS EC2, AWS Lambda, AWS QuickSight (for visualization), Azure Functions, Azure Key Vault
 - **Databases:** PostgreSQL, MySQL
 - **Datawarehouse:** AWS Redshift
 - **DevOps:** Jenkins, Terraform, Git Hub Actions
@@ -34,6 +37,7 @@
 ---
 ### 📜 Certifications
 - Microsoft Azure Data Engineer Associate (DP-203)
+- Microsoft Azure Fabric Data Engineer (DP-700)
 - dbt fundamentals
 - Data Engineering Foundations Professional Certificate by Astronomer
 - DevOps Professional Certificate by PagerDuty
